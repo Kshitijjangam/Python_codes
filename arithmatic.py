@@ -1,0 +1,10 @@
+x=15
+y=2
+z=x+y
+print('Addition=',z)
+z=x*y
+print('Multiplication=',z)
+z=x%y
+print('Division=',z)
+z=x//y
+print('Floor division=',z)
